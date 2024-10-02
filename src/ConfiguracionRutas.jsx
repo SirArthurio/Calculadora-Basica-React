@@ -3,7 +3,7 @@ import { Inicio } from "./inicio";
 
 export const ConfiguracionRutas=[
   {
-    path:'/Calculadora',
+    path:'/Calculadora-Basica-React',
     element:<Inicio/>,
   },
   
